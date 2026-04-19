@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Cindy Nufa — Portfolio
+# Cindy Nufa — Portfolio
 
 **A refined personal portfolio landing page, handcrafted with pure HTML & Vanilla CSS.**
 

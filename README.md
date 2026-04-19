@@ -17,13 +17,13 @@
 
 ---
 
-## 📸 Preview
+## Preview
 
 > A soft, elegant portfolio built to showcase frontend craftsmanship — clean layout, warm rose tones, and thoughtful typography.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Responsive Navigation** — Fixed header with smooth scroll links and a hamburger menu for mobile
 - **Hero Section** — Profile photo with a soft blob frame, tagline, and dual CTA buttons
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎨 Design System
+## Design System
 
 This project uses a **custom design system** defined entirely in CSS custom properties.
 
@@ -66,7 +66,7 @@ xs → 0.5rem  |  sm → 1rem  |  md → 2rem  |  lg → 4rem  |  xl → 6.5rem
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 portfolio/
@@ -83,7 +83,7 @@ portfolio/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 No build tools. No dependencies. Just open and go.
 
@@ -102,7 +102,7 @@ Or simply drag `index.html` into your browser. ✦
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 | Technology | Purpose |
 |------------|---------|
@@ -117,7 +117,7 @@ Or simply drag `index.html` into your browser. ✦
 
 ---
 
-## 📐 CSS Highlights
+## CSS Highlights
 
 ### Fluid Typography
 ```css
@@ -149,7 +149,7 @@ background: linear-gradient(
 
 ---
 
-## 🗺️ Sections
+## Sections
 
 | # | Section | Description |
 |---|---------|-------------|
@@ -160,13 +160,12 @@ background: linear-gradient(
 
 ---
 
-## 📬 Contact
+## Contact
 
 Made with ♡ by **Cindy Nufa**
 
 - 📧 xindicode@gmail.com
 - 🌏 Indonesia
-- 💼 *Open to work*
 
 ---
 
